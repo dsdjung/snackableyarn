@@ -1,0 +1,9 @@
+name = "Snackable Yarn Theme"
+license = "MIT"
+licenselink = "https://github.com/dsdjung/riazia-snackableyarn/blob/main/LICENSE"
+description = "Custom theme for Snackable Yarn storytelling site"
+homepage = "https://snackableyarn.com"
+min_version = "0.112.0"
+
+[author]
+  name = "Snackable Yarn"

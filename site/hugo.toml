@@ -1,0 +1,41 @@
+baseURL = "https://snackableyarn.com/"
+languageCode = "en-us"
+title = "Snackable Yarn"
+theme = "snackableyarn"
+
+[params]
+  description = "Bite-sized stories that stick with you"
+  tagline = "Stories worth telling, in minutes"
+  author = "Snackable Yarn"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Stories"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[markup]
+  [markup.highlight]
+    style = "github"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[permalinks]
+  posts = "/:year/:month/:slug/"
