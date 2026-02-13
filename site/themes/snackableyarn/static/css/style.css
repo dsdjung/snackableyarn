@@ -95,6 +95,16 @@ img {
   gap: 12px;
 }
 
+.site-logo .logo-image {
+  height: 44px;
+  width: auto;
+  transition: opacity 0.15s ease;
+}
+
+.site-logo:hover .logo-image {
+  opacity: 0.85;
+}
+
 .site-logo h1 {
   font-family: var(--font-headline);
   font-size: 1.5rem;

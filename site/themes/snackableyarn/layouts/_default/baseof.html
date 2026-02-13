@@ -29,7 +29,7 @@
   <header class="site-header">
     <div class="container">
       <a href="{{ .Site.BaseURL }}" class="site-logo">
-        <h1>{{ .Site.Title }}</h1>
+        <img src="{{ "images/logo.png" | relURL }}" alt="{{ .Site.Title }}" class="logo-image">
       </a>
       <p class="tagline">{{ .Site.Params.tagline }}</p>
       <nav class="main-nav">
