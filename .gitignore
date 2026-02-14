@@ -1,0 +1,16 @@
+# Generated media files (stored locally, not in git)
+audio/
+videos/
+video_strategy_output/
+contents/
+media/
+
+# Brand config (may contain sensitive data)
+brand.yaml
+
+# Hugo build output
+site/public/
+site/resources/
+
+# OS files
+.DS_Store
