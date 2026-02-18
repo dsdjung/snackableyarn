@@ -183,7 +183,7 @@ img {
 
 .site-main {
   min-height: calc(100vh - 300px);
-  padding: 48px 0;
+  padding-bottom: 48px;
 }
 
 /* Latest Posts Section */
@@ -361,6 +361,7 @@ img {
 .post {
   max-width: var(--content-width);
   margin: 0 auto;
+  padding-top: 48px;
 }
 
 .post-header {
@@ -639,7 +640,7 @@ img {
   text-align: center;
   padding: 60px 0;
   background: var(--color-surface);
-  margin: -48px -24px 48px;
+  margin: 0 -24px 48px;
 }
 
 .page-header h1 {
