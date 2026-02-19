@@ -1,16 +1,24 @@
-# Generated media files (stored locally, not in git)
-audio/
-videos/
-video_strategy_output/
-contents/
-media/
-
-# Brand config (may contain sensitive data)
-brand.yaml
-
-# Hugo build output
+# Hugo
 site/public/
 site/resources/
+.hugo_build.lock
 
-# OS files
+# OS
 .DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Temp files
+*.tmp
+*.bak
+
+# Large media files - stored locally, not in git
+videos/*.mp4
+video_strategy_output/*.mp3
+contents/*/scenes/*.png
+media/*/*.png
+
