@@ -1,0 +1,37 @@
+{{ define "main" }}
+<section class="page-header">
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="description">{{ . }}</p>{{ end }}
+  </div>
+</section>
+
+<section class="post-list">
+  {{ range .Pages }}
+  <article class="post-preview">
+    {{ with .Params.image }}
+    <div class="thumbnail">
+      <img src="{{ . | absURL }}" alt="{{ $.Title }}">
+    </div>
+    {{ end }}
+    <div class="content">
+      {{ with .Params.category }}
+      <span class="category">{{ . }}</span>
+      {{ end }}
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      {{ with .Summary }}
+      <p class="summary">{{ . }}</p>
+      {{ end }}
+      <div class="meta">
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" class="local-time">{{ .Date.Format "January 2, 2006" }}</time>
+        <a href="{{ .Permalink }}" class="read-more">Read more &rarr;</a>
+      </div>
+    </div>
+  </article>
+  {{ end }}
+</section>
+
+<div class="pagination-wrapper container">
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}
