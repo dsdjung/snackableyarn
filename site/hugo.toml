@@ -2,6 +2,7 @@ baseURL = "https://snackableyarn.com/"
 languageCode = "en-us"
 title = "Snackable Yarn"
 theme = "snackableyarn"
+timeZone = "America/New_York"
 
 [params]
   description = "Bite-sized stories that stick with you"
