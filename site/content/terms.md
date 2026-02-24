@@ -143,7 +143,7 @@ These Terms constitute the entire agreement between you and SnackableYarn regard
 
 For questions about these Terms:
 
-**Email:** legal@snackableyarn.com
+**Email:** admin@snackableyarn.com
 
 ---
 

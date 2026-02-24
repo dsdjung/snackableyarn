@@ -107,7 +107,7 @@ Our website is operated in the United States. Information collected is processed
 
 For privacy questions or concerns:
 
-**Email:** privacy@snackableyarn.com
+**Email:** admin@snackableyarn.com
 
 ---
 
