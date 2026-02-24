@@ -22,6 +22,14 @@ timeZone = "America/New_York"
     name = "About"
     url = "/about/"
     weight = 3
+  [[menu.main]]
+    name = "Privacy"
+    url = "/privacy/"
+    weight = 4
+  [[menu.main]]
+    name = "Terms"
+    url = "/terms/"
+    weight = 5
 
 [markup]
   [markup.highlight]
