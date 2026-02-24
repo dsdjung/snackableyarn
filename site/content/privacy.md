@@ -7,102 +7,108 @@ description: "Privacy Policy for SnackableYarn"
 
 ## Overview
 
-SnackableYarn ("we," "our," or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard information when you visit our website.
+SnackableYarn ("we," "our," or "us") respects your privacy. This Privacy Policy explains how we collect and use information when you visit our website. We do not require you to create an account or provide personal information to access our content.
 
 ## Information We Collect
 
-### Information You Provide
-
-When you interact with our website, you may choose to provide us with information such as:
-
-- Email address (if you subscribe to our newsletter)
-- Comments or feedback you submit
-- Contact information if you reach out to us
+We only collect information automatically through standard web technologies:
 
 ### Automatically Collected Information
 
-When you visit our website, we automatically collect certain information through cookies and similar technologies:
+When you visit our website, we automatically collect certain information through cookies and analytics services:
 
 - Browser type and version
-- Operating system
+- Device type and operating system
 - Pages viewed and time spent on pages
 - Referring website
-- IP address and approximate location
+- General location (country/region based on IP address)
+- Date and time of visit
 
-## How We Use Your Information
+**We do not collect:** names, email addresses, phone numbers, or any personally identifiable information unless you voluntarily contact us.
 
-We use the information we collect to:
+## How We Use Information
 
-- Deliver content and services you request
-- Send newsletters and updates (with your consent)
-- Improve our website and content
-- Analyze usage patterns and trends
-- Respond to your inquiries and feedback
+We use automatically collected information to:
+
+- Understand how visitors use our content
+- Improve our website performance and user experience
+- Analyze content popularity and engagement
+- Optimize content delivery
 
 ## Third-Party Services
 
 ### Google Analytics
 
-We use Google Analytics to understand how visitors use our website. Google Analytics collects information such as how often users visit our site, what pages they visit, and what other sites they used prior to coming to our site. We use this information to improve our website and content.
+We use Google Analytics to understand website traffic and user behavior. Google Analytics uses cookies to collect anonymous usage data.
 
-Google's ability to use and share information collected by Google Analytics is restricted by the Google Analytics Terms of Service and the Google Privacy Policy. You can opt-out of Google Analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
+- You can opt out by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)
+- Learn more: [Google Analytics Privacy Policy](https://policies.google.com/privacy)
 
 ### Google AdSense
 
-We use Google AdSense to display advertisements on our website. Google uses cookies to serve ads based on your prior visits to our website or other websites. You can opt out of personalized advertising by visiting [Google's Ads Settings](https://www.google.com/settings/ads).
+We display advertisements through Google AdSense. Google may use cookies to show relevant ads based on your browsing activity.
+
+- You can opt out of personalized ads: [Google Ads Settings](https://www.google.com/settings/ads)
+- Learn more: [Google AdSense Privacy Policy](https://policies.google.com/privacy)
 
 ### YouTube
 
-Our content may be embedded from or linked to YouTube, which is owned by Google. When you interact with embedded YouTube content, YouTube may collect information about you in accordance with their [Privacy Policy](https://policies.google.com/privacy).
+We embed video content from YouTube. When you watch embedded videos, YouTube may collect information about your viewing.
 
-### Social Media Platforms
+- Learn more: [YouTube Privacy Policy](https://policies.google.com/privacy)
 
-We maintain a presence on various social media platforms including Twitter, LinkedIn, Facebook, Instagram, and Spotify. When you interact with our content on these platforms, those platforms may collect information about you in accordance with their respective privacy policies.
+### Social Media
+
+We share content on Twitter, LinkedIn, Facebook, Instagram, and Spotify. These platforms may collect information when you interact with our content on their services according to their privacy policies.
 
 ## Cookies
 
-Cookies are small text files stored on your device when you visit our website. We use cookies to:
+Cookies are small files stored on your device. We use them for:
 
-- Remember your preferences
-- Understand how you use our website
-- Improve your experience
-- Deliver relevant advertisements
+- Analytics and usage tracking
+- Advertising preferences
+- Improving user experience
 
-You can control cookies through your browser settings. However, disabling cookies may limit your ability to use certain features of our website.
+**You can control cookies** through your browser settings. Disabling cookies may affect website functionality.
+
+### Types of Cookies We Use
+
+- **Essential cookies:** Required for basic website functionality
+- **Analytics cookies:** Help us understand how visitors use the site
+- **Advertising cookies:** Used to display relevant advertisements
 
 ## Data Security
 
-We implement reasonable security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. However, no internet transmission is completely secure, and we cannot guarantee absolute security.
+We implement reasonable security measures to protect automatically collected information. However, no internet transmission is completely secure.
 
 ## Your Rights
 
-Depending on your location, you may have certain rights regarding your personal information, including:
+Depending on your location, you may have rights regarding automatically collected data:
 
-- The right to access your personal information
-- The right to correct inaccurate information
-- The right to delete your information
-- The right to opt-out of certain data processing
+- Right to know what information is collected
+- Right to opt out of certain data collection (via browser settings, ad settings)
+- Right to request deletion of information we control
 
-To exercise these rights, please contact us at the email address provided below.
+For requests, contact us at the email below.
 
 ## Children's Privacy
 
-Our website is not directed to children under the age of 13, and we do not knowingly collect personal information from children under 13. If we learn that we have collected information from a child under 13, we will delete it promptly.
+Our website is general audience content. We do not knowingly collect information from children under 13. We do not require any user registration or data submission.
 
 ## Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+We may update this Privacy Policy periodically. Changes will be posted on this page with an updated "Last Updated" date.
 
-## International Users
+## International Visitors
 
-Our website is operated in the United States. If you are located outside the United States, please be aware that information we collect will be transferred to and processed in the United States.
+Our website is operated in the United States. Information collected is processed in the United States.
 
 ## Contact Us
 
-If you have questions or concerns about this Privacy Policy, please contact us at:
+For privacy questions or concerns:
 
 **Email:** privacy@snackableyarn.com
 
 ---
 
-*This Privacy Policy applies to SnackableYarn and its associated digital properties.*
+*This Privacy Policy applies to SnackableYarn and its website.*

@@ -7,119 +7,144 @@ description: "Terms of Service for SnackableYarn"
 
 ## Agreement to Terms
 
-By accessing or using the SnackableYarn website ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you disagree with any part of these Terms, you may not access the Service.
+By accessing and using the SnackableYarn website, you agree to these Terms of Service. If you do not agree, please do not use this website.
 
-## Use of Service
+## Website Use
 
-### Permitted Use
+### General Use
 
-You may use our Service for lawful purposes only. You agree not to use the Service:
+This website provides content for informational purposes. You may:
 
-- In any way that violates any applicable law or regulation
-- To transmit any harmful, threatening, abusive, or offensive content
-- To impersonate or attempt to impersonate SnackableYarn or any other person or entity
-- To interfere with or disrupt the Service or servers connected to the Service
-- To collect or harvest personal information from other users
+- Browse and read our content
+- Share our content via social media
+- Link to our articles
 
-### User Conduct
+You may not:
 
-When using our Service, you agree to:
+- Use automated systems (bots, scrapers) to access the website
+- Attempt to interfere with or disrupt website functionality
+- Use the website for any unlawful purpose
+- Reproduce, distribute, or create derivative works without permission
 
-- Respect intellectual property rights
-- Not reproduce, distribute, or create derivative works from our content without permission
-- Not use automated systems (bots, scrapers) to access the Service without authorization
-- Comply with all applicable laws and regulations
-
-## Intellectual Property Rights
+## Intellectual Property
 
 ### Our Content
 
-All content on this website, including but not limited to text, graphics, logos, images, audio, video, and software, is the property of SnackableYarn or its content suppliers and is protected by copyright, trademark, and other intellectual property laws.
+All content on this website—including articles, videos, images, graphics, and design—is owned by SnackableYarn or licensed to us. It is protected by copyright and intellectual property laws.
 
-### Limited License
+### Limited Personal Use
 
-We grant you a limited, non-exclusive, non-transferable license to access and use our content for personal, non-commercial purposes. This license does not include:
+You may view and share our content for personal, non-commercial purposes. This does not grant you rights to:
 
-- Resale or commercial use of the Service or its content
-- Collection and use of product listings, descriptions, or prices
-- Derivative use of the Service or its content
-- Downloading or copying of account information for the benefit of another merchant
-- Use of data mining, robots, or similar data gathering tools
+- Republish our content on other websites without permission
+- Use our content for commercial purposes
+- Remove copyright notices or attribution
+- Claim our content as your own
 
-### User-Generated Content
+### Sharing and Attribution
 
-If you submit comments, feedback, or other content to our Service, you grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, modify, and distribute such content in connection with our Service.
+When sharing our content:
 
-## Third-Party Links and Services
+- Provide proper attribution to SnackableYarn
+- Link back to the original article when possible
+- Do not misrepresent or alter the content
 
-Our Service may contain links to third-party websites or services that are not owned or controlled by SnackableYarn. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or services.
+## Content Disclaimer
 
-### Social Media Platforms
+### Informational Purpose Only
 
-We share content on various social media platforms including YouTube, Twitter, LinkedIn, Facebook, Instagram, and Spotify. Your use of these platforms is subject to their respective terms of service.
+Our content is provided for informational and educational purposes.
 
-### Advertising
+**Our content is not:**
+- Professional advice (legal, financial, medical, or otherwise)
+- A substitute for professional consultation
+- Guaranteed to be error-free or complete
 
-We use Google AdSense to display advertisements. Your interaction with advertisements is governed by the advertiser's terms and conditions.
+### Accuracy
 
-## Disclaimers
+While we strive for accuracy, we make no warranties about:
 
-### Content Accuracy
+- The completeness or accuracy of information
+- The timeliness of content
+- The suitability for any particular purpose
 
-While we strive to provide accurate and up-to-date information, we make no warranties or representations about the accuracy, reliability, or completeness of the content on our Service. The content is provided for informational purposes only and should not be relied upon for making decisions.
+**You should:**
+- Verify important information from primary sources
+- Consult professionals for specific advice
+- Use critical thinking when consuming content
 
-### No Professional Advice
+## Third-Party Links
 
-Our content does not constitute professional advice (legal, financial, medical, or otherwise). You should consult appropriate professionals for specific advice tailored to your situation.
+Our website may link to external websites and services. We are not responsible for:
 
-### "As Is" Basis
+- Content on third-party websites
+- Privacy practices of external sites
+- Accuracy of information on external sites
 
-THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WE MAKE NO WARRANTIES, EXPRESS OR IMPLIED, REGARDING THE SERVICE, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+Clicking external links is at your own risk.
+
+## Social Media and External Platforms
+
+We share content on YouTube, Twitter, LinkedIn, Facebook, Instagram, and Spotify. Your use of those platforms is governed by their respective terms of service.
+
+## Advertising
+
+We display third-party advertisements (Google AdSense). We are not responsible for:
+
+- Content of advertisements
+- Products or services advertised
+- Claims made by advertisers
+
+Interacting with advertisements is at your own discretion and risk.
 
 ## Limitation of Liability
 
-TO THE FULLEST EXTENT PERMITTED BY LAW, SnackableYarn SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES RESULTING FROM:
+**TO THE FULLEST EXTENT PERMITTED BY LAW:**
 
-- Your access to or use of (or inability to access or use) the Service
-- Any content obtained from the Service
-- Unauthorized access, use, or alteration of your transmissions or content
+SnackableYarn is provided "AS IS" and "AS AVAILABLE" without warranties of any kind, express or implied.
+
+We are not liable for:
+
+- Any reliance you place on our content
+- Decisions made based on our content
+- Damages resulting from website use or inability to access the website
+- Errors, omissions, or inaccuracies in content
+- Third-party content, links, or advertisements
 
 ## Indemnification
 
-You agree to indemnify and hold harmless SnackableYarn and its affiliates, officers, agents, and employees from any claims, damages, losses, liabilities, and expenses (including attorneys' fees) arising from:
+You agree to indemnify SnackableYarn from any claims, damages, or expenses arising from:
 
-- Your use of the Service
+- Your use of the website
 - Your violation of these Terms
-- Your violation of any rights of another person or entity
+- Your violation of any third-party rights
 
 ## Changes to Terms
 
-We reserve the right to modify or replace these Terms at any time at our sole discretion. We will provide notice of any material changes by posting the new Terms on this page and updating the "Last Updated" date.
-
-Your continued use of the Service after any changes constitutes acceptance of the new Terms.
+We reserve the right to modify these Terms at any time. Changes will be posted on this page with an updated "Last Updated" date. Continued use of the website constitutes acceptance of modified Terms.
 
 ## Termination
 
-We may terminate or suspend your access to the Service immediately, without prior notice or liability, for any reason, including if you breach these Terms.
+We may suspend or terminate access to the website at any time for any reason, including violation of these Terms.
 
 ## Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of the United States, without regard to its conflict of law provisions.
+These Terms are governed by the laws of the United States.
 
 ## Severability
 
-If any provision of these Terms is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall remain in full force and effect.
+If any provision of these Terms is found invalid or unenforceable, the remaining provisions remain in full effect.
 
 ## Entire Agreement
 
-These Terms constitute the entire agreement between you and SnackableYarn regarding the Service and supersede all prior agreements and understandings.
+These Terms constitute the entire agreement between you and SnackableYarn regarding website use.
 
-## Contact Us
+## Contact
 
-If you have questions about these Terms of Service, please contact us at:
+For questions about these Terms:
 
 **Email:** legal@snackableyarn.com
 
 ---
 
-*These Terms of Service apply to SnackableYarn and its associated digital properties.*
+*These Terms of Service apply to the SnackableYarn website.*
